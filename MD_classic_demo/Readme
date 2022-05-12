@@ -1,0 +1,2 @@
+Execute crystal.py to create a simulation test crytal [atoms in the box] after specified the conditions in input.py.
+Execute Main.py after crystal is generated.
